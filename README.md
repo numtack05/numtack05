@@ -11,4 +11,4 @@
 ---
 
 ## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=numtack05&show_icons=true&theme=radical)
