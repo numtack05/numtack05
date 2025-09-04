@@ -1,4 +1,4 @@
-# 👋 Hola, soy TU NOMBRE
+# Hola caras de bola
 
 💻 Apasionado por la tecnología y el desarrollo.
 
