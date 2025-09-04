@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy TU NOMBRE
 
-<!--
-**numtack05/numtack05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la tecnología y el desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🌱 Actualmente aprendiendo nuevas tecnologías
+- 🔭 Trabajando en proyectos personales y de práctica
+
+---
+
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
